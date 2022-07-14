@@ -5,6 +5,6 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-    Menu();
+    Menu ();
     return 0;
 }
